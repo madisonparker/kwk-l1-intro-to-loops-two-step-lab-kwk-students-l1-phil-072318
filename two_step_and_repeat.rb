@@ -27,6 +27,8 @@ def a_few_more_steps
 end
 
 def how_many_steps?
+  puts "Stop"
+  sleep (0.5)
   puts "Turn"
   sleep (0.5)
   puts "left"
