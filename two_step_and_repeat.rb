@@ -29,7 +29,8 @@ end
 def how_many_steps?
   puts "Turn"
   sleep (0.5)
-  puts ""
+  puts "left"
+  sleep (0.5)
 end
 
 def break_dance
